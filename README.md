@@ -1,6 +1,8 @@
 # trae-test
 (DEMO) Just a weather rest API built with trae agent
 
+For detailed technical documentation and architecture, please see [DESIGN.md](DESIGN.md).
+
 ## Prerequisites
 
 - Python 3.7 or higher
